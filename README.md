@@ -41,8 +41,6 @@ The model pane shows tables named `Calender Table`, `customers`, `Dynamic Metric
 └── transactions.png
 ```
 
-The Power BI report file can be added to this repository when ready for sharing. No raw source data is included here.
 
-## Notes
 
-Dashboard values and comparisons shown in the screenshots describe the report's current 2024 selection. They are included as examples of what is displayed, not as independently validated business results. Confirm that the underlying data is safe and permitted to share before publishing the `.pbix` file or any data extracts.
+
