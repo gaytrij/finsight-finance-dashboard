@@ -1,0 +1,8 @@
+Resume Project Entry
+
+**FinSight Finance Dashboard | Microsoft Power BI**
+
+- Built a two-page Power BI dashboard to analyze **15.03K financial transactions** totaling **₹135.62M** for the selected year **2024**.
+- Developed KPI cards for transaction amount, transaction count, average transaction value (**₹9.02K**), fees (**₹217.30K**), and tax (**₹39.14K**).
+- Created monthly trend and breakdown views for transaction status, customer segment, state, transaction type, and gender.
+- Added interactive year, dynamic metric, occupation, and category filters, plus a transaction-level table with customer, status, amount, fee, and tax fields.
